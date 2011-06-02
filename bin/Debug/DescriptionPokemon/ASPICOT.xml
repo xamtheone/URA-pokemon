@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<POKEMON num="215" nom="ASPICOT" pv=" 40" atq=" 35" def="30" vit=" 50" as="20" ds="20" oeuf1="insecte" type1="INSECTE" type2="POISON">
-  <CAPACITE nom="DARD-VENIN" apprentissage="Level" niveau="0" />
-  <CAPACITE nom="SECRETION" apprentissage="Level" niveau="0" />
-  <CAPACITESPE nom="ECRAN POUDRE" />
-  <EFFORT_POINT stat="vitesse" valeur="1" />
-  <EVOLUTION nom="COCONFORT" evo="niveau" niveau="7" />
-</POKEMON>

@@ -1,6 +1,0 @@
-<POKEMON espece="MUNJA" pseudo="MUNJA" sexe="Assexue" nature="Jovial" capacitespe="GARDE MYSTIK" couleur="normal" niveau="67">
-  <SYMBOLES carre="false" rond="false" triangle="false" coeur="false" />
-  <CAPACITES nom1="BALL'OMBRE" nom2="VENT ARGENTE" nom3="ONDE FOLIE" nom4="" />
-  <DV pv="-1" a="29" d="-1" as="-1" ds="-1" v="31" />
-  <PE pv="0" a="252" d="0" as="0" ds="0" v="252" />
-</POKEMON>

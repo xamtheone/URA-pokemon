@@ -1,6 +1,0 @@
-<POKEMON espece="BRASEGALI" pseudo="" sexe="Male" nature="" capacitespe="BRASIER" couleur="normal" niveau="0">
-  <SYMBOLES carre="false" rond="false" triangle="false" coeur="false" />
-  <CAPACITES nom1="LANCE-FLAMME" nom2="CASSE-BRIQUE" nom3="EBOULEMENT" nom4="GONFLETTE" />
-  <DV pv="-1" a="-1" d="-1" as="-1" ds="-1" v="-1" />
-  <PE pv="0" a="0" d="0" as="0" ds="0" v="0" />
-</POKEMON>

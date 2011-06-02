@@ -1,9 +1,0 @@
-<POKEMON num="412" nom="CHENITI" type1="INSECTE" oeuf1="insecte" pv="40" atq="29" def="45" as="29" ds="45" vit="36">
-  <CAPACITESPE nom="MUE" />
-  <EVOLUTION nom="CHENISELLE" evo="niveau" niveau="20" />
-  <EVOLUTION nom="PAPILORD" evo="niveau" niveau="20" />
-  <EFFORT_POINT stat="defensespe" valeur="1" />
-  <CAPACITE nom="ABRI" apprentissage="Level" niveau="0" />
-  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="10" />
-  <CAPACITE nom="PUIS. CACHEE" apprentissage="Level" niveau="20" />
-</POKEMON>

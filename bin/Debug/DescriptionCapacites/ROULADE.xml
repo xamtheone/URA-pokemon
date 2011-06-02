@@ -1,1 +1,0 @@
-<CAPACITE nom="ROULADE" type="ROCHE" force="30" pp="20" precision="90" description="Dure pendant 5 tours.  A chaque tour, la force de l'attaque est doublé, atteignant un maximum de 480 au cinquième tour.  Après 5 tours ou si l'attaque manque, la force revient à 30" naturedegat="Physique" />

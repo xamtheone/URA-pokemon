@@ -1,7 +1,0 @@
-<POKEMON num="401" nom="CRIKZIK" type1="INSECTE" oeuf1="insecte" pv="37" atq="25" def="41" as="25" ds="41" vit="25">
-  <CAPACITESPE nom="MUE" />
-  <EVOLUTION nom="MELOKRIK" evo="niveau" niveau="10" />
-  <EFFORT_POINT stat="defense" valeur="1" />
-  <CAPACITE nom="PATIENCE" apprentissage="Level" niveau="0" />
-  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="0" />
-</POKEMON>

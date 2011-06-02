@@ -1,7 +1,0 @@
-<POKEMON num="415" nom="APITRINI" type1="INSECTE" type2="VOL" oeuf1="insecte" pv="30" atq="30" def="42" as="30" ds="42" vit="70">
-  <CAPACITESPE nom="CHERCHE MIEL" />
-  <EVOLUTION nom="APIREINE" evo="niveau" niveau="21" />
-  <EFFORT_POINT stat="vitesse" valeur="1" />
-  <CAPACITE nom="DOUX PARFUM" apprentissage="Level" niveau="0" />
-  <CAPACITE nom="TORNADE" apprentissage="Level" niveau="0" />
-</POKEMON>

@@ -1,1 +1,0 @@
-<CAPACITE nom="SOIN" type="NORMAL" force="0" pp="20" precision="100" description="Le lanceur récupère 50% de ses PVMAX.  L'attaque manquera si la différence entre les PV actuelles et les PVMAX est de 511, 255 ou 0" naturedegat="Aucun" />

@@ -1,1 +1,0 @@
-<CAPACITE nom="FLEAU" type="NORMAL" force="1" pp="15" precision="100" description="La force de l'attaque dépend des PV du lanceur comme suivi: PV &lt; 4.2%MAXPV, force = 200   PV =&gt; 4.2% &lt; 10.4%, force = 150   PV =&gt; 10.4 &lt; 20.8%, force = 100   PV =&gt; 20.8% &lt; 35.4, force = 80   PV =&gt; 35.4 &lt; 68.8%, force = 40   PV =&gt; 68.8%, force = 20" />
