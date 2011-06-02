@@ -1,7 +1,7 @@
-Un projet sur lequel j'ai arreté de travailler il y a 2 ans...
-L'ojbectif était de faire des outils pour Pokémon version Diamant et Perle permetant de calculer différentes choses (IV,Stats,Accouplements,etc...)
-La partie la moins avancée est la gestion d'un équipe, qui devait permettre de visualiser les forces et faiblesses d'une équipe entière.
-Le reste tourne plutôt bien, il y a peut-être un bug de redondance dans l'algo d'accouplement que je pensait avoir corrigé, mais rien de grave les résultats sont quand même valable.
-Il n'y a pas de documentation décrivant le fonctionnement général ou le contenu des fichiers XML, c'est un peu ce qu'il manque.
+Un projet sur lequel j'ai arretÃ© de travailler il y a 2 ans...
+L'ojbectif Ã©tait de faire des outils pour PokÃ©mon version Diamant et Perle permetant de calculer diffÃ©rentes choses (IV,Stats,Accouplements,etc...)
+La partie la moins avancÃ©e est la gestion d'un Ã©quipe, qui devait permettre de visualiser les forces et faiblesses d'une Ã©quipe entiÃ¨re.
+Le reste tourne plutÃ´t bien, il y a peut-Ãªtre un bug de redondance dans l'algo d'accouplement que je pensait avoir corrigÃ©, mais rien de grave les rÃ©sultats sont quand mÃªme valable.
+Il n'y a pas de documentation dÃ©crivant le fonctionnement gÃ©nÃ©ral ou le contenu des fichiers XML, c'est un peu ce qu'il manque.
 
-Quelques idées intéressantes tout de même
+Quelques idÃ©es intÃ©ressantes tout de mÃªme
