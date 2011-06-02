@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="90" nom="RAFFLESIA" pv=" 75" atq=" 80" def="85" vit=" 50" as="100" ds="90" oeuf1="herbeux" type1="PLANTE" type2="POISON" evode="ORTIDE">
+  <CAPACITE nom="VOL-VIE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="AROMATHERAPI" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="PARA-SPORE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MEGA-SANGSUE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="DANSE-FLEUR" apprentissage="Level" niveau="44" />
+  <CAPACITE nom="CHARME" apprentissage="Oeuf" />
+  <CAPACITE nom="FLEAU" apprentissage="Oeuf" />
+  <CAPACITE nom="RACINES" apprentissage="Oeuf" />
+  <CAPACITE nom="TRANCH'HERBE" apprentissage="Oeuf" />
+  <CAPACITE nom="DANSE-LAMES" apprentissage="Oeuf" />
+  <CAPACITE nom="SYNTHESE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="BALLE GRAINE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="GIGA-SANGSUE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="BOMB-BEURK" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITESPE nom="CHLOROPHYLE" />
+  <EFFORT_POINT stat="attaquespe" valeur="3" />
+</POKEMON>

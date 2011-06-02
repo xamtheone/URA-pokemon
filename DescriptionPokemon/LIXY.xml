@@ -1,0 +1,51 @@
+<POKEMON num="403" nom="LIXY" type1="ELECTRIK" oeuf1="champetre" pv="45" atq="65" def="34" as="40" ds="34" vit="45">
+  <CAPACITESPE nom="INTIMIDATION" />
+  <CAPACITESPE nom="RIVALITE" />
+  <EVOLUTION nom="LUXIO" evo="niveau" niveau="15" />
+  <EFFORT_POINT stat="attaque" valeur="1" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="5" />
+  <CAPACITE nom="CHARGEUR" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="ETINCELLE" apprentissage="Level" niveau="17" />
+  <CAPACITE nom="HURLEMENT" apprentissage="Level" niveau="21" />
+  <CAPACITE nom="VANTARDISE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="MACHOUILLE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="CROCS ECLAIR" apprentissage="Level" niveau="33" />
+  <CAPACITE nom="GRIMACE" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="COUP D'JUS" apprentissage="Level" niveau="41" />
+  <CAPACITE nom="BELIER" apprentissage="Oeuf" />
+  <CAPACITE nom="CROCS ECLAIR" apprentissage="Oeuf" />
+  <CAPACITE nom="CROCS FEU" apprentissage="Oeuf" />
+  <CAPACITE nom="CROCS GIVRE" apprentissage="Oeuf" />
+  <CAPACITE nom="GRONDEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="VIVE-ATTAQUE" apprentissage="Oeuf" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="RAYON CHARGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+</POKEMON>

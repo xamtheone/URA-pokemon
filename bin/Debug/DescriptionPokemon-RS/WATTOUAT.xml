@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="327" nom="WATTOUAT" pv=" 55" atq=" 40" def="40" vit=" 35" as="65" ds="45" oeuf1="champetre" oeuf2="monstre" type1="ELECTRIK">
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ECLAIR" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="Level" niveau="16" />
+  <CAPACITE nom="SPORE COTON" apprentissage="Level" niveau="23" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CTLevel" niveau="30" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CTLevel" niveau="37" />
+  <CAPACITE nom="PLAQUAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="CHARGEUR" apprentissage="Oeuf" />
+  <CAPACITE nom="FLAIR" apprentissage="Oeuf" />
+  <CAPACITE nom="PROTECTION" apprentissage="Oeuf" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="Oeuf" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="BELIER" apprentissage="Oeuf" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITESPE nom="STATIK" />
+  <EFFORT_POINT stat="attaquespe" valeur="1" />
+  <EVOLUTION nom="LAINERGIE" evo="niveau" niveau="30" />
+</POKEMON>

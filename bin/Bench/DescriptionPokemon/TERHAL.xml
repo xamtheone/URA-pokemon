@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="190" nom="TERHAL" pv=" 40" atq=" 55" def="80" vit=" 30" as="35" ds="60" oeuf1="mineral" type1="ACIER" type2="PSY">
+  <CAPACITE nom="BELIER" apprentissage="Level" niveau="0" />
+  <CAPACITESPE nom="CORPS SAIN" />
+  <EFFORT_POINT stat="defense" valeur="1" />
+  <EVOLUTION nom="METANG" evo="niveau" niveau="20" />
+</POKEMON>

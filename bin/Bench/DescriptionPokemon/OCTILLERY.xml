@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="363" nom="OCTILLERY" pv="75" atq=" 105" def="75" vit=" 45" as="105" ds="75" oeuf1="aquatique1" oeuf2="aquatique2" type1="EAU" evode="REMORAID">
+  <CAPACITE nom="PISTOLET A O" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CONSTRICTION" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="RAFALE PSY" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="ONDE BOREALE" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="BULLES D'O" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="OCTAZOOKA" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="PUISSANCE" apprentissage="Level" niveau="38" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CTLevel" niveau="54" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CTLevel" niveau="70" />
+  <CAPACITE nom="ONDE BOREALE" apprentissage="Oeuf" />
+  <CAPACITE nom="BUEE NOIRE" apprentissage="Oeuf" />
+  <CAPACITE nom="OCTAZOOKA" apprentissage="Oeuf" />
+  <CAPACITE nom="BOULE ROC" apprentissage="Oeuf" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="ULTRASON" apprentissage="Oeuf" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="BALLE GRAINE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="PSYKO" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="BOMB-BEURK" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITE nom="PLONGEE" apprentissage="CS" />
+  <CAPACITESPE nom="VENTOUSE" />
+  <EFFORT_POINT stat="attaque" valeur="1" />
+  <EFFORT_POINT stat="attaquespe" valeur="1" />
+</POKEMON>

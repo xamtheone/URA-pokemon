@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="URA-Pokemon">
+</Property><Property Name="Fichier solution" Value="C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\URA-Pokemon.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\URA-Pokemon.suo">
+</Property><Property Name="Date" Value="vendredi 10 février 2006">
+</Property><Property Name="Time" Value="22:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="URA-Pokemon.sln" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\URA-Pokemon.sln">
+</Event><Event ErrorLevel="0" Project="" Source="URA-Pokemon.suo" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\URA-Pokemon.suo">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="URA-Pokemon.csproj" Description="Fichier projet correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\URA-Pokemon.csproj">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="URA-Pokemon.csproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\URA-Pokemon.csproj.user">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="AssemblyInfo.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="Capacite.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\Capacite.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="DescriptionPokemon.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\DescriptionPokemon.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="EffortPoints.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\EffortPoints.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="EnumTypes.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\EnumTypes.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="Form1.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="Pokemon.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\Pokemon.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="Xblood.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\Xblood.cs">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="DescriptionPokemon.xsx" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\DescriptionPokemon.xsx">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="App.ico" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="DescriptionPokemon.xsd" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\DescriptionPokemon.xsd">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="Form1.resx" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\Xam\Mes documents\Visual Studio Projects\URA-Pokemon\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="URA-Pokemon.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="URA-Pokemon" Source="URA-Pokemon.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="URA-Pokemon.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="URA-Pokemon.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="URA-Pokemon" Source="URA-Pokemon.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

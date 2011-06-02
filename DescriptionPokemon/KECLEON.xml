@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="145" nom="KECLEON" pv=" 60" atq=" 90" def="70" vit=" 40" as="60" ds="120" oeuf1="champetre" type1="NORMAL">
+  <CAPACITE nom="LARCIN" apprentissage="CTLevel" niveau="0" />
+  <CAPACITE nom="MIMI-QUEUE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ETONNEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="LECHOUILLE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GRIFFE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ETREINTE" apprentissage="Level" niveau="4" />
+  <CAPACITE nom="FEINTE" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="COMBO-GRIFFE" apprentissage="Level" niveau="12" />
+  <CAPACITE nom="RAFALE PSY" apprentissage="Level" niveau="17" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="24" />
+  <CAPACITE nom="TRANCHE" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="CLONAGE" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="POUV.ANTIQUE" apprentissage="Level" niveau="49" />
+  <CAPACITE nom="ENTRAVE" apprentissage="Oeuf" />
+  <CAPACITE nom="REFLET MAGIK" apprentissage="Oeuf" />
+  <CAPACITE nom="TOURMAGIK" apprentissage="Oeuf" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="AILE D'ACIER" apprentissage="CT" />
+  <CAPACITE nom="ECHANGE" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITESPE nom="DEGUISEMENT" />
+  <EFFORT_POINT stat="defensespe" valeur="2" />
+</POKEMON>

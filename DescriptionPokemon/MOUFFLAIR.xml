@@ -1,0 +1,61 @@
+<POKEMON num="435" nom="MOUFFLAIR" type1="POISON" type2="TENEBRES" oeuf1="champetre" evode="MOUFOUETTE" pv="103" atq="93" def="67" as="71" ds="61" vit="84">
+  <CAPACITESPE nom="PUANTEUR" />
+  <CAPACITESPE nom="BOOM FINAL" />
+  <EFFORT_POINT stat="pv" valeur="2" />
+  <CAPACITE nom="GRIFFE" apprentissage="Level" niveau="1" />
+  <CAPACITE nom="PUISSANCE" apprentissage="Level" niveau="1" />
+  <CAPACITE nom="GAZ TOXIK" apprentissage="Level" niveau="4" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="COMBO-GRIFFE" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="BROUILLARD" apprentissage="Level" niveau="15" />
+  <CAPACITE nom="TOXIK" apprentissage="Level" niveau="20" />
+  <CAPACITE nom="TRANCHE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="TRANCHE-NUIT" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="SOUVENIR" apprentissage="Level" niveau="41" />
+  <CAPACITE nom="EXPLOSION" apprentissage="Level" niveau="52" />
+  <CAPACITE nom="DAMOCLES" apprentissage="Oeuf" />
+  <CAPACITE nom="ETONNEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="GRIMACE" apprentissage="Oeuf" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Oeuf" />
+  <CAPACITE nom="MACHOUILLE" apprentissage="Oeuf" />
+  <CAPACITE nom="POURSUITE" apprentissage="Oeuf" />
+  <CAPACITE nom="PUNITION" apprentissage="Oeuf" />
+  <CAPACITE nom="PUREDPOIS" apprentissage="Oeuf" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="ANTI-BRUME" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="BOMB-BEURK" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="EXPLOSION" apprentissage="CT" />
+  <CAPACITE nom="GRIFFE OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REPRESAILLES" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="VIBROBSCUR" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="Level" niveau="34" />
+</POKEMON>

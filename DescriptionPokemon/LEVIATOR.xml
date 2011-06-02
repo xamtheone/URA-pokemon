@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="53" nom="LEVIATOR" pv=" 95" atq=" 125" def="79" vit=" 81" as="60" ds="100" oeuf1="aquatique2" oeuf2="dragon" type1="EAU" type2="VOL" evode="MAGICARPE">
+  <CAPACITE nom="MANIA" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="20" />
+  <CAPACITE nom="DRACO-RAGE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="30" />
+  <CAPACITE nom="OURAGAN" apprentissage="Level" niveau="35" />
+  <CAPACITE nom="HYDROCANON" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CTLevel" niveau="45" />
+  <CAPACITE nom="DANSE DRACO" apprentissage="Level" niveau="50" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CTLevel" niveau="55" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="SEISME" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="TEMPETESABLE" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITE nom="PLONGEE" apprentissage="CS" />
+  <CAPACITESPE nom="INTIMIDATION" />
+  <EFFORT_POINT stat="attaque" valeur="2" />
+</POKEMON>

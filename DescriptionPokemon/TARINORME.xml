@@ -1,0 +1,60 @@
+<POKEMON num="476" nom="TARINORME" type1="ROCHE" type2="ACIER" oeuf1="mineral" evode="TARINOR" pv="60" atq="55" def="145" as="75" ds="150" vit="40">
+  <CAPACITESPE nom="FERMETE" />
+  <CAPACITESPE nom="MAGNEPIEGE" />
+  <EFFORT_POINT stat="defense" valeur="1" />
+  <EFFORT_POINT stat="defensespe" valeur="2" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GRAVITE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VOL MAGNETIK" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MUR DE FER" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="BOMBAIMANT" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="BARRAGE" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="EBOULEMENT" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="TEMPETESABLE" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="REPOS" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="COUP D'JUS" apprentissage="Level" niveau="49" />
+  <CAPACITE nom="LAME DE ROC" apprentissage="Level" niveau="55" />
+  <CAPACITE nom="ELECANON" apprentissage="Level" niveau="61" />
+  <CAPACITE nom="VERROUILLAGE" apprentissage="Level" niveau="67" />
+  <CAPACITE nom="TELLURIFORCE" apprentissage="Level" niveau="73" />
+  <CAPACITE nom="AMPLEUR" apprentissage="Oeuf" />
+  <CAPACITE nom="DAMOCLES" apprentissage="Oeuf" />
+  <CAPACITE nom="ROULADE" apprentissage="Oeuf" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="SEISME" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="TEMPETESABLE" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="EXPLOSION" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+  <CAPACITE nom="POLIROCHE" apprentissage="CT" />
+  <CAPACITE nom="LAME DE ROC" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="PIEGE DE ROC" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="EBOULEMENT" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="LUMINOCANON" apprentissage="CT" />
+</POKEMON>

@@ -1,0 +1,54 @@
+Pokemon poke1;
+Pokemon poke2;
+Pokemon poke3;
+Pokemon poke4;
+Pokemon poke5;
+Pokemon poke6;
+
+Equipe equipe;
+
+int NumSelected = 1;
+
+Pokemon CurrentPokemon;
+string[] Fichetab = new string[6];
+
+CalcEquipe()
+CalcMoveSet()
+CalcMoveSetSelected(Pokemon)
+ChangeSelectedPokemon(Pokemon)
+ChargerPokemon(int, Pokemon, string)
+OuvrirEquipe()
+OuvrirFiche(int)
+SetFiche(string, int) //technique
+SetSelectedPokemonTo(Pokemon)
+
+---------------------------------------------
+#Ouverture d'équipe
+->Ouverture de fiche
+
+
+#Ouverture de fiche
+->effacement des controles du nième poké
+->effacement du poké courant s'il s'agit du poké sélectionné
+->Chargement du poké si non null
+->Chargement du poké courant s'il s'agit du poké sélectionné
+
+#bouton ouvrir
+->Ouverture de fiche
+->Calcul des vulnérabilités et des movesets
+
+#bouton fermer
+->effacement du nième poké, fiche, objet, et des controles
+->effacement du poké courant s'il s'agit du poké sélectionné
+->Calcul des vulnérabilités et des movesets
+
+#Changement de pokémon dans le combo
+->effacement des controles du nième poké
+->si non vide, charger les controles (mettre la première capacité d'office)
+
+#effacement des controles du nième poké
+#effacement du poké courant s'il s'agit du poké sélectionné
+#Chargement du poké si non null
+#Chargement du poké courant s'il s'agit du poké sélectionné
+#Calcul des vulnérabilités et des movesets
+

@@ -1,0 +1,63 @@
+<POKEMON num="478" nom="MOMARTIK" type1="GLACE" type2="SPECTRE" oeuf1="feerique" oeuf2="mineral" evode="STALGAMIN" pv="70" atq="80" def="70" as="80" ds="70" vit="110">
+  <CAPACITESPE nom="RIDEAU NEIGE" />
+  <EFFORT_POINT stat="vitesse" valeur="2" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="POUDREUSE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="REFLET" apprentissage="Level" niveau="4" />
+  <CAPACITE nom="ETONNEMENT" apprentissage="Level" niveau="10" />
+  <CAPACITE nom="VENT GLACE" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="ONDE FOLIE" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="VENT MAUVAIS" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="REVEIL FORCE" apprentissage="Level" niveau="28" />
+  <CAPACITE nom="SEDUCTION" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="ECLATS GLACE" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="GRELE" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="BLIZZARD" apprentissage="Level" niveau="51" />
+  <CAPACITE nom="PRLVT DESTIN" apprentissage="Level" niveau="59" />
+  <CAPACITE nom="BARRAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="ENTRAVE" apprentissage="Oeuf" />
+  <CAPACITE nom="PATIENCE" apprentissage="Oeuf" />
+  <CAPACITE nom="PICOTS" apprentissage="Oeuf" />
+  <CAPACITE nom="ROULADE" apprentissage="Oeuf" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="PSYKO" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTERRISSAGE" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="DEGOMMAGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="EMBARGO" apprentissage="CT" />
+  <CAPACITE nom="REPRESAILLES" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+  <CAPACITE nom="AVALANCHE" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="BOOST" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="DEVOREVE" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+</POKEMON>

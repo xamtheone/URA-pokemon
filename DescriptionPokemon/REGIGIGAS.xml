@@ -1,0 +1,52 @@
+<POKEMON num="486" nom="REGIGIGAS" type1="NORMAL" oeuf1="sterile" pv="110" atq="160" def="110" as="80" ds="110" vit="100">
+  <CAPACITESPE nom="SLOW START" />
+  <EFFORT_POINT stat="attaque" valeur="3" />
+  <CAPACITE nom="ECRASEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ONDE FOLIE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="POING DE FEU" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="POING-ECLAIR" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="POINGLACE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="SABOTAGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ULTIMAPOING" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="SURPUISSANCE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="PSYKOUD'BOUL" apprentissage="Level" niveau="50" />
+  <CAPACITE nom="PRESSE" apprentissage="Level" niveau="75" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="Level" niveau="100" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="ESCALADE" apprentissage="CS" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="SEISME" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="EXPLOFORCE" apprentissage="CT" />
+  <CAPACITE nom="DEGOMMAGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="VAMPIPOING" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+  <CAPACITE nom="POLIROCHE" apprentissage="CT" />
+  <CAPACITE nom="LAME DE ROC" apprentissage="CT" />
+  <CAPACITE nom="AVALANCHE" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="BOOST" apprentissage="CT" />
+  <CAPACITE nom="EBOULEMENT" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+</POKEMON>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="216" nom="COCONFORT" pv=" 45" atq=" 25" def="50" vit=" 35" as="25" ds="25" oeuf1="insecte" type1="INSECTE" type2="POISON" evode="ASPICOT">
+  <CAPACITE nom="ARMURE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ARMURE" apprentissage="Level" niveau="7" />
+  <CAPACITESPE nom="MUE" />
+  <EFFORT_POINT stat="defense" valeur="2" />
+  <EVOLUTION nom="DARDARGNAN" evo="niveau" niveau="10" />
+</POKEMON>

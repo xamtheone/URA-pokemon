@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DescriptionCapacite" targetNamespace="http://tempuri.org/DescriptionCapacite.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/DescriptionCapacite.xsd" xmlns:mstns="http://tempuri.org/DescriptionCapacite.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CAPACITE">
+    <xs:complexType>
+      <xs:sequence>
+      </xs:sequence>
+      <xs:attribute name="nom" type="xs:string" />
+      <xs:attribute name="type" type="TypePkmEtCap" />
+      <xs:attribute name="force" type="xs:nonNegativeInteger" />
+      <xs:attribute name="precision" type="xs:nonNegativeInteger" />
+      <xs:attribute name="pp" type="xs:nonNegativeInteger" />
+      <xs:attribute name="numct" type="xs:nonNegativeInteger" />
+      <xs:attribute name="numcs" type="xs:nonNegativeInteger" />
+      <xs:attribute name="description" type="xs:string" />
+      <xs:attribute name="naturedegat" type="NatureDegat" />
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="TypePkmEtCap">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="NORMAL" />
+      <xs:enumeration value="FEU" />
+      <xs:enumeration value="EAU" />
+      <xs:enumeration value="PLANTE" />
+      <xs:enumeration value="ELECTRIK" />
+      <xs:enumeration value="GLACE" />
+      <xs:enumeration value="COMBAT" />
+      <xs:enumeration value="POISON" />
+      <xs:enumeration value="SOL" />
+      <xs:enumeration value="VOL" />
+      <xs:enumeration value="PSY" />
+      <xs:enumeration value="INSECTE" />
+      <xs:enumeration value="ROCHE" />
+      <xs:enumeration value="SPECTRE" />
+      <xs:enumeration value="DRAGON" />
+      <xs:enumeration value="TENEBRES" />
+      <xs:enumeration value="ACIER" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="NatureDegat">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Physique" />
+      <xs:enumeration value="Special" />
+      <xs:enumeration value="Aucun" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

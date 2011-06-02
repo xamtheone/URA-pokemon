@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="303" nom="DRACO" pv=" 61" atq=" 84" def="65" vit=" 70" as="70" ds="70" oeuf1="dragon" oeuf2="aquatique1" type1="DRAGON" evode="MINIDRACO">
+  <CAPACITE nom="LIGOTAGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="Level" niveau="8" />
+  <CAPACITE nom="OURAGAN" apprentissage="Level" niveau="15" />
+  <CAPACITE nom="DRACO-RAGE" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="SOUPLESSE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="HATE" apprentissage="Level" niveau="38" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CTLevel" niveau="47" />
+  <CAPACITE nom="COLERE" apprentissage="Level" niveau="56" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CTLevel" niveau="65" />
+  <CAPACITE nom="DANSE DRACO" apprentissage="Oeuf" />
+  <CAPACITE nom="DRACOSOUFFLE" apprentissage="Oeuf" />
+  <CAPACITE nom="BUEE NOIRE" apprentissage="Oeuf" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="Oeuf" />
+  <CAPACITE nom="BRUME" apprentissage="Oeuf" />
+  <CAPACITE nom="ULTRASON" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITESPE nom="MUE" />
+  <EFFORT_POINT stat="attaque" valeur="2" />
+  <EVOLUTION nom="DRACOLOSSE" evo="niveau" niveau="55" />
+</POKEMON>

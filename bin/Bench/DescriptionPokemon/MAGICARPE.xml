@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="52" nom="MAGICARPE" pv=" 20" atq=" 10" def="55" vit=" 80" as="15" ds="20" oeuf1="aquatique2" oeuf2="dragon" type1="EAU">
+  <CAPACITE nom="TREMPETTE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="15" />
+  <CAPACITE nom="FLEAU" apprentissage="Level" niveau="30" />
+  <CAPACITESPE nom="GLISSADE" />
+  <EFFORT_POINT stat="vitesse" valeur="1" />
+  <EVOLUTION nom="LEVIATOR" evo="niveau" niveau="20" />
+</POKEMON>

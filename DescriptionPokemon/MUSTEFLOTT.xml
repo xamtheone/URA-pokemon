@@ -1,0 +1,64 @@
+<POKEMON num="419" nom="MUSTEFLOTT" type1="EAU" oeuf1="aquatique1" oeuf2="champetre" evode="MUSTEBOUEE" pv="85" atq="105" def="55" as="85" ds="50" vit="115">
+  <CAPACITESPE nom="GLISSADE" />
+  <EFFORT_POINT stat="vitesse" valeur="2" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="SONICBOOM" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="TOURNIQUET" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VIVE-ATTAQUE" apprentissage="Level" niveau="3" />
+  <CAPACITE nom="PISTOLET A O" apprentissage="Level" niveau="6" />
+  <CAPACITE nom="POURSUITE" apprentissage="Level" niveau="10" />
+  <CAPACITE nom="METEORES" apprentissage="Level" niveau="15" />
+  <CAPACITE nom="AQUA-JET" apprentissage="Level" niveau="21" />
+  <CAPACITE nom="HATE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="SIPHON" apprentissage="Level" niveau="39" />
+  <CAPACITE nom="COUPE-VENT" apprentissage="Level" niveau="50" />
+  <CAPACITE nom="COMBO-GRIFFE" apprentissage="Oeuf" />
+  <CAPACITE nom="COUD'BOUE" apprentissage="Oeuf" />
+  <CAPACITE nom="COUP D'BOULE" apprentissage="Oeuf" />
+  <CAPACITE nom="FLAIR" apprentissage="Oeuf" />
+  <CAPACITE nom="RELAIS" apprentissage="Oeuf" />
+  <CAPACITE nom="TAILLADE" apprentissage="Oeuf" />
+  <CAPACITE nom="TORGNOLES" apprentissage="Oeuf" />
+  <CAPACITE nom="TRANCHE" apprentissage="Oeuf" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="GONFLETTE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SAUMURE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="CROCS GIVRE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MACHOUILLE" apprentissage="Level" niveau="26" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="EXPLOFORCE" apprentissage="CT" />
+  <CAPACITE nom="REPRESAILLES" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+</POKEMON>

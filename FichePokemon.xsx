@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Ce fichier est automatiquement généré par le Concepteur de schémas XML. Il contient des informations de disposition pour les composants dans l'aire du concepteur.-->
+<XSDDesignerLayout Style="LeftRight" layoutVersion="2" viewPortLeft="0" viewPortTop="0" zoom="100">
+    <POKEMON_XmlElement left="5874" top="10848" width="5291" height="5795" selected="0" zOrder="1" index="0" expanded="1">
+        <SYMBOLES_XmlElement left="11799" top="6475" width="5292" height="2831" selected="0" zOrder="2" index="0" expanded="1" />
+        <CAPACITES_XmlElement left="11799" top="9814" width="5292" height="2831" selected="0" zOrder="5" index="1" expanded="1" />
+        <DV_XmlElement left="11799" top="13153" width="5292" height="3678" selected="0" zOrder="8" index="2" expanded="1" />
+        <PE_XmlElement left="11799" top="17339" width="5292" height="3678" selected="0" zOrder="11" index="3" expanded="1" />
+    </POKEMON_XmlElement>
+    <Nature_XmlSimpleType left="18600" top="10584" width="5291" height="11721" selected="0" zOrder="14" index="1" expanded="1" />
+    <Sexe_XmlSimpleType left="24527" top="10689" width="5291" height="2408" selected="0" zOrder="16" index="2" expanded="1" />
+    <Couleur_XmlSimpleType left="5927" top="19765" width="5291" height="1984" selected="0" zOrder="18" index="3" expanded="1" />
+</XSDDesignerLayout>

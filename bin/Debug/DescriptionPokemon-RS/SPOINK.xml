@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="110" nom="SPOINK" pv=" 60" atq=" 25" def="35" vit=" 60" as="70" ds="80" oeuf1="champetre" type1="PSY">
+  <CAPACITE nom="TREMPETTE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VAGUE PSY" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="FLAIR" apprentissage="Level" niveau="10" />
+  <CAPACITE nom="RAFALE PSY" apprentissage="Level" niveau="16" />
+  <CAPACITE nom="BOOST" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="ONDE FOLIE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="REFLET MAGIK" apprentissage="Level" niveau="28" />
+  <CAPACITE nom="PSYKO" apprentissage="CTLevel" niveau="34" />
+  <CAPACITE nom="REPOS" apprentissage="CTLevel" niveau="37" />
+  <CAPACITE nom="RONFLEMENT" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="REBOND" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="EXTRASENSEUR" apprentissage="Oeuf" />
+  <CAPACITE nom="PRESCIENCE" apprentissage="Oeuf" />
+  <CAPACITE nom="CLONAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOURMAGIK" apprentissage="Oeuf" />
+  <CAPACITE nom="PLENITUDE" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="PROTECTION" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="ECHANGE" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITESPE nom="TEMPO PERSO" />
+  <CAPACITESPE nom="ISOGRAISSE" />
+  <EFFORT_POINT stat="defensespe" valeur="1" />
+  <EVOLUTION nom="GRORET" evo="niveau" niveau="32" />
+</POKEMON>

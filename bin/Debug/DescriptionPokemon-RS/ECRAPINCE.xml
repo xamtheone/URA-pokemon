@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="129" nom="ECRAPINCE" pv=" 43" atq=" 80" def="65" vit=" 35" as="50" ds="35" oeuf1="aquatique1" oeuf2="aquatique3" type1="EAU">
+  <CAPACITE nom="ECUME" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ARMURE" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="FORCE POIGNE" apprentissage="Level" niveau="10" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="BULLES D'O" apprentissage="Level" niveau="20" />
+  <CAPACITE nom="ABRI" apprentissage="CTLevel" niveau="23" />
+  <CAPACITE nom="SABOTAGE" apprentissage="Level" niveau="26" />
+  <CAPACITE nom="PROVOC" apprentissage="CTLevel" niveau="32" />
+  <CAPACITE nom="PINCE-MASSE" apprentissage="Level" niveau="35" />
+  <CAPACITE nom="DANSE-LAMES" apprentissage="Level" niveau="38" />
+  <CAPACITE nom="GUILLOTINE" apprentissage="Level" niveau="44" />
+  <CAPACITE nom="POUV.ANTIQUE" apprentissage="Oeuf" />
+  <CAPACITE nom="PLAQUAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="EFFORT" apprentissage="Oeuf" />
+  <CAPACITE nom="LANCE-BOUE" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="BOMB-BEURK" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITESPE nom="HYPER CUTTER" />
+  <CAPACITESPE nom="COQUE ARMURE" />
+  <EFFORT_POINT stat="attaque" valeur="1" />
+  <EVOLUTION nom="COLHOMAR" evo="niveau" niveau="30" />
+</POKEMON>

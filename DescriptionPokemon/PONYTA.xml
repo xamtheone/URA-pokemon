@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="253" nom="PONYTA" pv=" 50" atq=" 85" def="55" vit=" 90" as="65" ds="65" oeuf1="champetre" type1="FEU">
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="5" />
+  <CAPACITE nom="MIMI-QUEUE" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="FLAMMECHE" apprentissage="Level" niveau="14" />
+  <CAPACITE nom="ECRASEMENT" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="DANSEFLAMME" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="BELIER" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="HATE" apprentissage="Level" niveau="38" />
+  <CAPACITE nom="REBOND" apprentissage="Level" niveau="45" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CTLevel" niveau="53" />
+  <CAPACITE nom="CHARME" apprentissage="Oeuf" />
+  <CAPACITE nom="DOUBLE-PIED" apprentissage="Oeuf" />
+  <CAPACITE nom="DAMOCLES" apprentissage="Oeuf" />
+  <CAPACITE nom="ROUE DE FEU" apprentissage="Oeuf" />
+  <CAPACITE nom="HYPNOSE" apprentissage="Oeuf" />
+  <CAPACITE nom="MANIA" apprentissage="Oeuf" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SURCHAUFFE" apprentissage="CT" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITESPE nom="TORCHE" />
+  <CAPACITESPE nom="FUITE" />
+  <EFFORT_POINT stat="vitesse" valeur="1" />
+  <EVOLUTION nom="GALOPA" evo="niveau" niveau="40" />
+</POKEMON>

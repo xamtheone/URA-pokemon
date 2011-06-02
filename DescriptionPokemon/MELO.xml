@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="324" nom="MELO" pv=" 50" atq=" 25" def="28" vit=" 15" as="45" ds="55" oeuf1="sterile" type1="NORMAL">
+  <CAPACITE nom="ECRAS'FACE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CHARME" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ENCORE" apprentissage="Level" niveau="4" />
+  <CAPACITE nom="BERCEUSE" apprentissage="Level" niveau="8" />
+  <CAPACITE nom="DOUX BAISER" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="AMNESIE" apprentissage="Oeuf" />
+  <CAPACITE nom="COGNOBIDON" apprentissage="Oeuf" />
+  <CAPACITE nom="METRONOME" apprentissage="Oeuf" />
+  <CAPACITE nom="COPIE" apprentissage="Oeuf" />
+  <CAPACITE nom="CADEAU" apprentissage="Oeuf" />
+  <CAPACITE nom="TREMPETTE" apprentissage="Oeuf" />
+  <CAPACITE nom="CLONAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="VOEU" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="PSYKO" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="PROTECTION" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITESPE nom="JOLI SOURIRE" />
+  <EFFORT_POINT stat="defensespe" valeur="1" />
+  <EVOLUTION nom="MELOFEE" evo="bonheur" />
+  <DEPENDEVO />
+</POKEMON>

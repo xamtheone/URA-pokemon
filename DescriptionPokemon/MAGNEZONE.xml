@@ -1,0 +1,53 @@
+<POKEMON num="462" nom="MAGNEZONE" type1="ELECTRIK" type2="ACIER" oeuf1="mineral" evode="MAGNETON" pv="70" atq="70" def="115" as="130" ds="90" vit="60">
+  <CAPACITESPE nom="FERMETE" />
+  <CAPACITESPE nom="MAGNEPIEGE" />
+  <EFFORT_POINT stat="attaquespe" valeur="3" />
+  <CAPACITE nom="BOUCLIER" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="STRIDO-SON" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VOILE MIROIR" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ECLAIR" apprentissage="Level" niveau="6" />
+  <CAPACITE nom="ULTRASON" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="SONICBOOM" apprentissage="Level" niveau="14" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="Level" niveau="17" />
+  <CAPACITE nom="ETINCELLE" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="VERROUILLAGE" apprentissage="Level" niveau="27" />
+  <CAPACITE nom="BOMBAIMANT" apprentissage="Level" niveau="30" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="34" />
+  <CAPACITE nom="COUP D'JUS" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="MIROIR-TIR" apprentissage="Level" niveau="46" />
+  <CAPACITE nom="VOL MAGNETIK" apprentissage="Level" niveau="50" />
+  <CAPACITE nom="GYROBALLE" apprentissage="Level" niveau="54" />
+  <CAPACITE nom="ELECANON" apprentissage="Level" niveau="60" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="PROTECTION" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="RAYON CHARGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="EXPLOSION" apprentissage="CT" />
+  <CAPACITE nom="RECYCLAGE" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="GYROBALLE" apprentissage="CT" />
+  <CAPACITE nom="BOOST" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="LUMINOCANON" apprentissage="CT" />
+</POKEMON>

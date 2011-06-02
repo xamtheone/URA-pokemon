@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DescriptionPokemon" targetNamespace="http://tempuri.org/DescriptionPokemon.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/DescriptionPokemon.xsd" xmlns:mstns="http://tempuri.org/DescriptionPokemon.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="POKEMON">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="EFFORT_POINT" maxOccurs="6">
+          <xs:complexType>
+            <xs:attribute name="stat" type="TypeEffortPoint" />
+            <xs:attribute name="valeur" type="xs:positiveInteger" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CAPACITE" maxOccurs="500">
+          <xs:complexType>
+            <xs:attribute name="nom" type="xs:string" />
+            <xs:attribute name="apprentissage" type="TypeApprentissage" />
+            <xs:attribute name="niveau" type="xs:positiveInteger" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CAPACITESPE" maxOccurs="2">
+          <xs:complexType>
+            <xs:sequence />
+            <xs:attribute name="nom" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="EVOLUTION">
+          <xs:complexType>
+            <xs:sequence>
+            </xs:sequence>
+            <xs:attribute name="evo" type="Evolutiontype" />
+            <xs:attribute name="nom" type="xs:string" />
+            <xs:attribute name="niveau" type="xs:integer" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DEPENDEVO">
+          <xs:complexType>
+            <xs:sequence />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FORME_PRIMAIRE">
+          <xs:complexType>
+            <xs:sequence />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="num" type="xs:integer" />
+      <xs:attribute name="nom" type="xs:string" />
+      <xs:attribute name="pv" type="xs:positiveInteger" />
+      <xs:attribute name="atq" type="xs:positiveInteger" />
+      <xs:attribute name="def" type="xs:positiveInteger" />
+      <xs:attribute name="vit" type="xs:positiveInteger" />
+      <xs:attribute name="as" type="xs:positiveInteger" />
+      <xs:attribute name="ds" type="xs:positiveInteger" />
+      <xs:attribute name="evode" type="xs:string" use="optional" />
+      <xs:attribute name="type1" type="TypePkmEtCap" />
+      <xs:attribute name="type2" type="TypePkmEtCap" use="optional" />
+      <xs:attribute name="oeuf1" type="TypeEspece" />
+      <xs:attribute name="oeuf2" type="TypeEspece" />
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="Evolutiontype">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="niveau" />
+      <xs:enumeration value="pierre_feu" />
+      <xs:enumeration value="pierre_eau" />
+      <xs:enumeration value="pierre_plante" />
+      <xs:enumeration value="pierre_foudre" />
+      <xs:enumeration value="pierre_soleil" />
+      <xs:enumeration value="pierre_lune" />
+      <xs:enumeration value="bonheur" />
+      <xs:enumeration value="malheur" />
+      <xs:enumeration value="echange" />
+      <xs:enumeration value="echange_avec_objet" />
+      <xs:enumeration value="beaute" />
+      <xs:enumeration value="special" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypePkmEtCap">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="NORMAL" />
+      <xs:enumeration value="FEU" />
+      <xs:enumeration value="EAU" />
+      <xs:enumeration value="PLANTE" />
+      <xs:enumeration value="ELECTRIK" />
+      <xs:enumeration value="GLACE" />
+      <xs:enumeration value="COMBAT" />
+      <xs:enumeration value="POISON" />
+      <xs:enumeration value="SOL" />
+      <xs:enumeration value="VOL" />
+      <xs:enumeration value="PSY" />
+      <xs:enumeration value="INSECTE" />
+      <xs:enumeration value="ROCHE" />
+      <xs:enumeration value="SPECTRE" />
+      <xs:enumeration value="DRAGON" />
+      <xs:enumeration value="TENEBRES" />
+      <xs:enumeration value="ACIER" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeEffortPoint">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="attaque" />
+      <xs:enumeration value="defense" />
+      <xs:enumeration value="vitesse" />
+      <xs:enumeration value="attaquespe" />
+      <xs:enumeration value="defensespe" />
+      <xs:enumeration value="pv" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeEspece">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="amorphe" />
+      <xs:enumeration value="aquatique1" />
+      <xs:enumeration value="aquatique2" />
+      <xs:enumeration value="aquatique3" />
+      <xs:enumeration value="aucun" />
+      <xs:enumeration value="champetre" />
+      <xs:enumeration value="dragon" />
+      <xs:enumeration value="feerique" />
+      <xs:enumeration value="herbeux" />
+      <xs:enumeration value="humain" />
+      <xs:enumeration value="insecte" />
+      <xs:enumeration value="mineral" />
+      <xs:enumeration value="monstre" />
+      <xs:enumeration value="sterile" />
+      <xs:enumeration value="volant" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="TypeApprentissage">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Level" />
+      <xs:enumeration value="CT" />
+      <xs:enumeration value="CTLevel" />
+      <xs:enumeration value="CS" />
+      <xs:enumeration value="CSLevel" />
+      <xs:enumeration value="Oeuf" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

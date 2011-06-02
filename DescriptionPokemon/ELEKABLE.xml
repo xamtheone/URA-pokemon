@@ -1,0 +1,68 @@
+<POKEMON num="466" nom="ELEKABLE" type1="ELECTRIK" oeuf1="humain" evode="ELEKTEK" pv="75" atq="123" def="67" as="95" ds="85" vit="95">
+  <CAPACITESPE nom="MOTOR DRIVE" />
+  <EFFORT_POINT stat="attaque" valeur="3" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="POING DE FEU" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VIVE-ATTAQUE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ECLAIR" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="BALAYAGE" apprentissage="Level" niveau="10" />
+  <CAPACITE nom="METEORES" apprentissage="Level" niveau="16" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="POING-ECLAIR" apprentissage="Level" niveau="28" />
+  <CAPACITE nom="COUP D'JUS" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="TONNERRE" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="52" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="Level" niveau="58" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="Level" niveau="76" />
+  <CAPACITE nom="BOUCLIER" apprentissage="Oeuf" />
+  <CAPACITE nom="COUP-CROIX" apprentissage="Oeuf" />
+  <CAPACITE nom="DYNAMOPOING" apprentissage="Oeuf" />
+  <CAPACITE nom="MAWASHI GERI" apprentissage="Oeuf" />
+  <CAPACITE nom="POING DE FEU" apprentissage="Oeuf" />
+  <CAPACITE nom="POING-KARATE" apprentissage="Oeuf" />
+  <CAPACITE nom="YOGA" apprentissage="Oeuf" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="ESCALADE" apprentissage="CS" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="SEISME" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="PSYKO" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="EXPLOFORCE" apprentissage="CT" />
+  <CAPACITE nom="DEGOMMAGE" apprentissage="CT" />
+  <CAPACITE nom="RAYON CHARGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="GIGA IMPACT" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="EBOULEMENT" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+</POKEMON>

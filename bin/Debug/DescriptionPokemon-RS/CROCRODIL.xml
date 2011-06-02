@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="314" nom="CROCRODIL" pv=" 65" atq=" 80" def="80" vit=" 58" as="59" ds="63" oeuf1="aquatique1" oeuf2="monstre" type1="EAU" evode="KAIMINUS">
+  <CAPACITE nom="GRIFFE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="FRENESIE" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="PISTOLET A O" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="21" />
+  <CAPACITE nom="GRIMACE" apprentissage="Level" niveau="28" />
+  <CAPACITE nom="TRANCHE" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="45" />
+  <CAPACITE nom="HYDROCANON" apprentissage="Level" niveau="55" />
+  <CAPACITE nom="POUV.ANTIQUE" apprentissage="Oeuf" />
+  <CAPACITE nom="MACHOUILLE" apprentissage="Oeuf" />
+  <CAPACITE nom="DRACOGRIFFE" apprentissage="Oeuf" />
+  <CAPACITE nom="HYDROCANON" apprentissage="Oeuf" />
+  <CAPACITE nom="LANCE-BOUE" apprentissage="Oeuf" />
+  <CAPACITE nom="EBOULEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="MANIA" apprentissage="Oeuf" />
+  <CAPACITE nom="TOURNIQUET" apprentissage="Oeuf" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITE nom="PLONGEE" apprentissage="CS" />
+  <CAPACITESPE nom="TORRENT" />
+  <EFFORT_POINT stat="attaque" valeur="1" />
+  <EFFORT_POINT stat="defense" valeur="1" />
+  <EVOLUTION nom="ALIGATUEUR" evo="niveau" niveau="30" />
+</POKEMON>

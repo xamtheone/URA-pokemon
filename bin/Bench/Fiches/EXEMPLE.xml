@@ -1,0 +1,6 @@
+<POKEMON espece="SABLAIREAU" pseudo="Semismor" sexe="Male" nature="Brave" capacitespe="VOILE SABLE" couleur="normal" niveau="50">
+  <SYMBOLES carre="true" rond="true" triangle="false" coeur="true" />
+  <CAPACITES nom1="DANSE-LAMES" nom2="TEMPETESABLE" nom3="SEISME" nom4="EBOULEMENT" />
+  <DV pv="28" a="31" d="30" as="3" ds="26" v="21" />
+  <PE pv="255" a="255" d="0" as="0" ds="0" v="0" />
+</POKEMON>

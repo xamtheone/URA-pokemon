@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FichePokemon" targetNamespace="http://tempuri.org/FichePokemon.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/FichePokemon.xsd" xmlns:mstns="http://tempuri.org/FichePokemon.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="POKEMON">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SYMBOLES">
+          <xs:complexType>
+            <xs:sequence>
+            </xs:sequence>
+            <xs:attribute name="carre" type="xs:boolean" />
+            <xs:attribute name="rond" type="xs:boolean" />
+            <xs:attribute name="triangle" type="xs:boolean" />
+            <xs:attribute name="coeur" type="xs:boolean" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CAPACITES">
+          <xs:complexType>
+            <xs:sequence>
+            </xs:sequence>
+            <xs:attribute name="nom1" type="xs:string" />
+            <xs:attribute name="nom2" type="xs:string" />
+            <xs:attribute name="nom3" type="xs:string" />
+            <xs:attribute name="nom4" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DV">
+          <xs:complexType>
+            <xs:sequence>
+            </xs:sequence>
+            <xs:attribute name="pv" type="xs:int" />
+            <xs:attribute name="a" type="xs:int" />
+            <xs:attribute name="d" type="xs:int" />
+            <xs:attribute name="as" type="xs:int" />
+            <xs:attribute name="ds" type="xs:int" />
+            <xs:attribute name="v" type="xs:int" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PE">
+          <xs:complexType>
+            <xs:sequence />
+            <xs:attribute name="pv" type="xs:nonNegativeInteger" />
+            <xs:attribute name="a" type="xs:nonNegativeInteger" />
+            <xs:attribute name="d" type="xs:nonNegativeInteger" />
+            <xs:attribute name="as" type="xs:nonNegativeInteger" />
+            <xs:attribute name="ds" type="xs:nonNegativeInteger" />
+            <xs:attribute name="v" type="xs:nonNegativeInteger" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="espece" type="xs:string" />
+      <xs:attribute name="pseudo" type="xs:string" />
+      <xs:attribute name="sexe" type="Sexe" />
+      <xs:attribute name="nature" type="Nature" />
+      <xs:attribute name="capacitespe" type="xs:string" />
+      <xs:attribute name="couleur" type="Couleur" />
+      <xs:attribute name="niveau" type="xs:nonNegativeInteger" />
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="Nature">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Assure" />
+      <xs:enumeration value="Bizarre" />
+      <xs:enumeration value="Brave" />
+      <xs:enumeration value="Calme" />
+      <xs:enumeration value="Discret" />
+      <xs:enumeration value="Docile" />
+      <xs:enumeration value="Doux" />
+      <xs:enumeration value="Foufou" />
+      <xs:enumeration value="Gentil" />
+      <xs:enumeration value="Hardi" />
+      <xs:enumeration value="Jovial" />
+      <xs:enumeration value="Laché" />
+      <xs:enumeration value="Malin" />
+      <xs:enumeration value="Malpoli" />
+      <xs:enumeration value="Mauvais" />
+      <xs:enumeration value="Modeste" />
+      <xs:enumeration value="Naif" />
+      <xs:enumeration value="Presse" />
+      <xs:enumeration value="Prudent" />
+      <xs:enumeration value="Pudique" />
+      <xs:enumeration value="Relax" />
+      <xs:enumeration value="Rigide" />
+      <xs:enumeration value="Serieux" />
+      <xs:enumeration value="Solo" />
+      <xs:enumeration value="Timide" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Sexe">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Male" />
+      <xs:enumeration value="Femelle" />
+      <xs:enumeration value="Assexue" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Couleur">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="normal" />
+      <xs:enumeration value="shiney" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

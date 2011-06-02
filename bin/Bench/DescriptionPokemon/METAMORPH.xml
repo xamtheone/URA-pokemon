@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="287" nom="METAMORPH" pv=" 48" atq=" 48" def="48" vit=" 48" as="48" ds="48" oeuf1="aucun" type1="NORMAL">
+  <CAPACITE nom="MORPHING" apprentissage="Level" niveau="0" />
+  <CAPACITESPE nom="ECHAUFFEMENT" />
+  <EFFORT_POINT stat="pv" valeur="1" />
+</POKEMON>

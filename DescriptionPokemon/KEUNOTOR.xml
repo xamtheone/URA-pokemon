@@ -1,0 +1,60 @@
+<POKEMON num="399" nom="KEUNOTOR" type1="NORMAL" oeuf1="aquatique1" oeuf2="champetre" pv="59" atq="45" def="40" as="35" ds="40" vit="31">
+  <CAPACITESPE nom="SIMPLE" />
+  <CAPACITESPE nom="INCONSCIENT" />
+  <EVOLUTION nom="CASTORNO" evo="niveau" niveau="15" />
+  <EFFORT_POINT stat="pv" valeur="1" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="5" />
+  <CAPACITE nom="BOUL'ARMURE" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="ROULADE" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="COUP D'BOULE" apprentissage="Level" niveau="17" />
+  <CAPACITE nom="CROC DE MORT" apprentissage="Level" niveau="21" />
+  <CAPACITE nom="BAILLEMENT" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="AMNESIE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="BELIER" apprentissage="Level" niveau="33" />
+  <CAPACITE nom="CROC FATAL" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="SURPUISSANCE" apprentissage="Level" niveau="41" />
+  <CAPACITE nom="VIVE-ATTAQUE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOURNIQUET" apprentissage="Oeuf" />
+  <CAPACITE nom="DAMOCLES" apprentissage="Oeuf" />
+  <CAPACITE nom="COMBO-GRIFFE" apprentissage="Oeuf" />
+  <CAPACITE nom="BOUL'ARMURE" apprentissage="Oeuf" />
+  <CAPACITE nom="ROULADE" apprentissage="Oeuf" />
+  <CAPACITE nom="FLAIR" apprentissage="Oeuf" />
+  <CAPACITE nom="HYDROQUEUE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="RAYON CHARGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="PIEGE DE ROC" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="NOEUD HERBE" apprentissage="CT" />
+  <CAPACITE nom="NOEUD HERBE" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="PICORE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+</POKEMON>

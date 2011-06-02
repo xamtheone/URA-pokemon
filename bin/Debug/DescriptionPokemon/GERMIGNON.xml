@@ -1,0 +1,51 @@
+<POKEMON num="152" nom="GERMIGNON" type1="PLANTE" oeuf1="herbeux" oeuf2="monstre" pv="45" atq="49" def="65" as="49" ds="65" vit="45">
+  <CAPACITESPE nom="ENGRAIS" />
+  <EVOLUTION nom="MACRONIUM" evo="niveau" niveau="16" />
+  <EFFORT_POINT stat="defensespe" valeur="1" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="AROMATHERAPI" apprentissage="Level" niveau="42" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="BALLE GRAINE" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="DANSE-LAMES" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CTLevel" niveau="23" />
+  <CAPACITE nom="DOUX PARFUM" apprentissage="Level" niveau="28" />
+  <CAPACITE nom="ECO-SPHERE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FEUILLE MAGIK" apprentissage="Level" niveau="20" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="FLEAU" apprentissage="Oeuf" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="FORCE-NATURE" apprentissage="Oeuf" />
+  <CAPACITE nom="FOUET LIANES" apprentissage="Oeuf" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="GIGA-SANGSUE" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CTLevel" niveau="45" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CTLevel" niveau="31" />
+  <CAPACITE nom="NOEUD HERBE" apprentissage="CT" />
+  <CAPACITE nom="PLAQUAGE" apprentissage="Level" niveau="34" />
+  <CAPACITE nom="POUDRE TOXIK" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="POUV.ANTIQUE" apprentissage="Oeuf" />
+  <CAPACITE nom="PROTECTION" apprentissage="CTLevel" niveau="17" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RACINES" apprentissage="Oeuf" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="RIPOSTE" apprentissage="Oeuf" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CTLevel" niveau="39" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="SIFFL'HERBE" apprentissage="Oeuf" />
+  <CAPACITE nom="SYNTHESE" apprentissage="Level" niveau="12" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="TRANCH'HERBE" apprentissage="Level" niveau="6" />
+  <CAPACITE nom="VAMPIGRAINE" apprentissage="Oeuf" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+</POKEMON>

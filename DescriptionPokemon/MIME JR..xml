@@ -1,0 +1,81 @@
+<POKEMON num="439" nom="MIME JR." type1="PSY" oeuf1="sterile" pv="20" atq="25" def="45" as="70" ds="90" vit="60">
+  <CAPACITESPE nom="ANTI-BRUIT" />
+  <CAPACITESPE nom="FILTRE" />
+  <DEPENDEVO />
+  <EVOLUTION nom="M.MIME" evo="special" />
+  <EFFORT_POINT stat="defensespe" valeur="1" />
+  <CAPACITE nom="BOUCLIER" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CHATOUILLE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="CHOC MENTAL" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="PHOTOCOPIE" apprentissage="Level" niveau="4" />
+  <CAPACITE nom="YOGA" apprentissage="Level" niveau="8" />
+  <CAPACITE nom="ENCORE" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="TORGNOLES" apprentissage="Level" niveau="15" />
+  <CAPACITE nom="COPIE" apprentissage="Level" niveau="18" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="PROTECTION" apprentissage="Level" niveau="22" />
+  <CAPACITE nom="RAFALE PSY" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="CLONAGE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="RECYCLAGE" apprentissage="Level" niveau="32" />
+  <CAPACITE nom="TOURMAGIK" apprentissage="Level" niveau="36" />
+  <CAPACITE nom="PSYKO" apprentissage="Level" niveau="39" />
+  <CAPACITE nom="IMITATION" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="RELAIS" apprentissage="Level" niveau="46" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="Level" niveau="50" />
+  <CAPACITE nom="BLUFF" apprentissage="Oeuf" />
+  <CAPACITE nom="BOOST" apprentissage="Oeuf" />
+  <CAPACITE nom="CHARME" apprentissage="Oeuf" />
+  <CAPACITE nom="COPIE" apprentissage="Oeuf" />
+  <CAPACITE nom="DANSE-FOLLE" apprentissage="Oeuf" />
+  <CAPACITE nom="HYPNOSE" apprentissage="Oeuf" />
+  <CAPACITE nom="ONDE FOLIE" apprentissage="Oeuf" />
+  <CAPACITE nom="PRESCIENCE" apprentissage="Oeuf" />
+  <CAPACITE nom="REVEIL FORCE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOURMAGIK" apprentissage="Oeuf" />
+  <CAPACITE nom="VOEU SOIN" apprentissage="Oeuf" />
+  <CAPACITE nom="FLASH" apprentissage="CT" />
+  <CAPACITE nom="MITRA-POING" apprentissage="CT" />
+  <CAPACITE nom="PLENITUDE" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="MUR LUMIERE" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="PSYKO" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="CASSE-BRIQUE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="PROTECTION" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="ECHANGE" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="DEGOMMAGE" apprentissage="CT" />
+  <CAPACITE nom="RAYON CHARGE" apprentissage="CT" />
+  <CAPACITE nom="TENACITE" apprentissage="CT" />
+  <CAPACITE nom="VAMPIPOING" apprentissage="CT" />
+  <CAPACITE nom="RECYCLAGE" apprentissage="CT" />
+  <CAPACITE nom="CAGE-ECLAIR" apprentissage="CT" />
+  <CAPACITE nom="BOOST" apprentissage="CT" />
+  <CAPACITE nom="SEDUCTION" apprentissage="CT" />
+  <CAPACITE nom="BLABLA DODO" apprentissage="CT" />
+  <CAPACITE nom="DON NATUREL" apprentissage="CT" />
+  <CAPACITE nom="DEVOREVE" apprentissage="CT" />
+  <CAPACITE nom="NOEUD HERBE" apprentissage="CT" />
+  <CAPACITE nom="VANTARDISE" apprentissage="CT" />
+  <CAPACITE nom="CLONAGE" apprentissage="CT" />
+  <CAPACITE nom="DISTORTION" apprentissage="CT" />
+</POKEMON>

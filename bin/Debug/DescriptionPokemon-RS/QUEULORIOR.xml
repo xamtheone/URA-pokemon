@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="370" nom="QUEULORIOR" pv=" 55" atq=" 20" def="35" vit=" 75" as="20" ds="45" oeuf1="champetre" type1="NORMAL">
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="21" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="41" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="51" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="61" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="71" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="81" />
+  <CAPACITE nom="GRIBOUILLE" apprentissage="Level" niveau="91" />
+  <CAPACITESPE nom="TEMPO PERSO" />
+  <EFFORT_POINT stat="vitesse" valeur="1" />
+</POKEMON>

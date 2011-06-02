@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="245" nom="CANINOS" pv=" 55" atq=" 70" def="45" vit=" 60" as="70" ds="50" oeuf1="champetre" type1="FEU">
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CTLevel" niveau="0" />
+  <CAPACITE nom="FLAMMECHE" apprentissage="Level" niveau="7" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="FLAIR" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="BELIER" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="ROUE DE FEU" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="COUP D'MAIN" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="HATE" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="LANCE-FLAMME" apprentissage="CTLevel" niveau="49" />
+  <CAPACITE nom="PLAQUAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="MACHOUILLE" apprentissage="Oeuf" />
+  <CAPACITE nom="DANSEFLAMME" apprentissage="Oeuf" />
+  <CAPACITE nom="CANICULE" apprentissage="Oeuf" />
+  <CAPACITE nom="GRONDEMENT" apprentissage="Oeuf" />
+  <CAPACITE nom="RUNE PROTECT" apprentissage="Oeuf" />
+  <CAPACITE nom="MANIA" apprentissage="Oeuf" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="DEFLAGRATION" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="SURCHAUFFE" apprentissage="CT" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITESPE nom="TORCHE" />
+  <CAPACITESPE nom="INTIMIDATION" />
+  <EFFORT_POINT stat="attaque" valeur="1" />
+  <EVOLUTION nom="ARCANIN" evo="pierre_feu" />
+</POKEMON>

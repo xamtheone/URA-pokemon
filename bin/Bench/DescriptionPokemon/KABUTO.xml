@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="295" nom="KABUTO" pv=" 30" atq=" 80" def="90" vit=" 55" as="55" ds="45" oeuf1="aquatique1" oeuf2="aquatique3" type1="ROCHE" type2="EAU">
+  <CAPACITE nom="GRIFFE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="ARMURE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="VOL-VIE" apprentissage="Level" niveau="13" />
+  <CAPACITE nom="GROZ'YEUX" apprentissage="Level" niveau="19" />
+  <CAPACITE nom="TIR DE BOUE" apprentissage="Level" niveau="25" />
+  <CAPACITE nom="JET DE SABLE" apprentissage="Level" niveau="31" />
+  <CAPACITE nom="TENACITE" apprentissage="Level" niveau="37" />
+  <CAPACITE nom="STRIDO-SON" apprentissage="Level" niveau="43" />
+  <CAPACITE nom="MEGA-SANGSUE" apprentissage="Level" niveau="49" />
+  <CAPACITE nom="POUV.ANTIQUE" apprentissage="Level" niveau="55" />
+  <CAPACITE nom="ONDE BOREALE" apprentissage="Oeuf" />
+  <CAPACITE nom="BULLES D'O" apprentissage="Oeuf" />
+  <CAPACITE nom="ONDE FOLIE" apprentissage="Oeuf" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="FLEAU" apprentissage="Oeuf" />
+  <CAPACITE nom="SABOTAGE" apprentissage="Oeuf" />
+  <CAPACITE nom="TOUR RAPIDE" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="GIGA-SANGSUE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="TEMPETESABLE" apprentissage="CT" />
+  <CAPACITE nom="TOMBEROCHE" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITESPE nom="ARMURBASTON" />
+  <CAPACITESPE nom="GLISSADE" />
+  <EFFORT_POINT stat="defense" valeur="1" />
+  <EVOLUTION nom="KABUTOPS" evo="niveau" niveau="40" />
+</POKEMON>

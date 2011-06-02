@@ -1,0 +1,1 @@
+<CAPACITE nom="CADEAU" type="NORMAL" force="1" pp="15" precision="90" description="A 2 effets différent :  occasionne des dégâts d'une force variable comme suivi : 40 (40% de chance), 80 (30%), 120 (10%).  Redonne à l'adversaire 1/4 de ses PVMAX (20% de chance)" naturedegat="Physique" />

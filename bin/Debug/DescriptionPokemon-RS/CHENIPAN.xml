@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="212" nom="CHENIPAN" pv=" 45" atq=" 30" def="35" vit=" 45" as="20" ds="20" oeuf1="insecte" type1="INSECTE">
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="SECRETION" apprentissage="Level" niveau="0" />
+  <CAPACITESPE nom="ECRAN POUDRE" />
+  <EFFORT_POINT stat="pv" valeur="1" />
+  <EVOLUTION nom="CHRYSACIER" evo="niveau" niveau="7" />
+</POKEMON>

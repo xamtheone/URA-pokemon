@@ -1,0 +1,1 @@
+<CAPACITE nom="AMPLEUR" type="SOL" force="1" pp="30" precision="100" description="Un nombre aléatoire défini la force, comme indiqué : N = 4, Force = 10, Chance 5%   5, 30, 10%   6, 50, 20%   7, 70, 30%   8, 90, 20%   9, 110, 10%   10, 150, 5%.  Peut toucher un pokémon qui utilise TUNNEL" naturedegat="Physique" />

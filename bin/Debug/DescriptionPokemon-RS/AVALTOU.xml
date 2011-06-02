@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="96" nom="AVALTOU" pv=" 100" atq=" 73" def="83" vit=" 55" as="73" ds="83" oeuf1="amorphe" type1="POISON" evode="GLOUPTI">
+  <CAPACITE nom="ECRAS'FACE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="BAILLEMENT" apprentissage="Level" niveau="6" />
+  <CAPACITE nom="GAZ TOXIK" apprentissage="Level" niveau="9" />
+  <CAPACITE nom="DETRITUS" apprentissage="Level" niveau="14" />
+  <CAPACITE nom="AMNESIE" apprentissage="Level" niveau="17" />
+  <CAPACITE nom="ENCORE" apprentissage="Level" niveau="23" />
+  <CAPACITE nom="PLAQUAGE" apprentissage="Level" niveau="26" />
+  <CAPACITE nom="TOXIK" apprentissage="CTLevel" niveau="31" />
+  <CAPACITE nom="STOCKAGE" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="RELACHE" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="AVALE" apprentissage="Level" niveau="40" />
+  <CAPACITE nom="BOMB-BEURK" apprentissage="CTLevel" niveau="48" />
+  <CAPACITE nom="ACIDARMURE" apprentissage="Oeuf" />
+  <CAPACITE nom="DEVOREVE" apprentissage="Oeuf" />
+  <CAPACITE nom="BALANCE" apprentissage="Oeuf" />
+  <CAPACITE nom="PUREDPOIS" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="BALLE GRAINE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="GIGA-SANGSUE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="LANCE-SOLEIL" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="FORCE" apprentissage="CS" />
+  <CAPACITE nom="ECLATE-ROC" apprentissage="CS" />
+  <CAPACITESPE nom="SUINTEMENT" />
+  <EFFORT_POINT stat="pv" valeur="2" />
+</POKEMON>

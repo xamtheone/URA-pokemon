@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="289" nom="AQUALI" pv=" 130" atq=" 65" def="60" vit=" 65" as="110" ds="95" oeuf1="champetre" type1="EAU" evode="EVOLI">
+  <CAPACITE nom="CHARGE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MIMI-QUEUE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="COUP D'MAIN" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="JET DE SABLE" apprentissage="Level" niveau="8" />
+  <CAPACITE nom="PISTOLET A O" apprentissage="Level" niveau="16" />
+  <CAPACITE nom="VIVE-ATTAQUE" apprentissage="Level" niveau="23" />
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="30" />
+  <CAPACITE nom="ONDE BOREALE" apprentissage="Level" niveau="36" />
+  <CAPACITE nom="BUEE NOIRE" apprentissage="Level" niveau="42" />
+  <CAPACITE nom="ACIDARMURE" apprentissage="Level" niveau="47" />
+  <CAPACITE nom="HYDROCANON" apprentissage="Level" niveau="52" />
+  <CAPACITE nom="CHARME" apprentissage="Oeuf" />
+  <CAPACITE nom="MALEDICTION" apprentissage="Oeuf" />
+  <CAPACITE nom="TENACITE" apprentissage="Oeuf" />
+  <CAPACITE nom="FLEAU" apprentissage="Oeuf" />
+  <CAPACITE nom="CHATOUILLE" apprentissage="Oeuf" />
+  <CAPACITE nom="VOEU" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="GRELE" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="LASER GLACE" apprentissage="CT" />
+  <CAPACITE nom="BLIZZARD" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="SURF" apprentissage="CS" />
+  <CAPACITE nom="CASCADE" apprentissage="CS" />
+  <CAPACITE nom="PLONGEE" apprentissage="CS" />
+  <CAPACITESPE nom="ABSORB EAU" />
+  <EFFORT_POINT stat="pv" valeur="2" />
+</POKEMON>

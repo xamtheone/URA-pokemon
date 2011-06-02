@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<POKEMON num="242" nom="PERSIAN" pv=" 65" atq=" 70" def="60" vit=" 115" as="65" ds="65" oeuf1="champetre" type1="NORMAL" evode="MIAOUSS">
+  <CAPACITE nom="GRIFFE" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="RUGISSEMENT" apprentissage="Level" niveau="0" />
+  <CAPACITE nom="MORSURE" apprentissage="Level" niveau="11" />
+  <CAPACITE nom="JACKPOT" apprentissage="Level" niveau="20" />
+  <CAPACITE nom="FEINTE" apprentissage="Level" niveau="29" />
+  <CAPACITE nom="GRINCEMENT" apprentissage="Level" niveau="38" />
+  <CAPACITE nom="COMBO-GRIFFE" apprentissage="Level" niveau="46" />
+  <CAPACITE nom="TRANCHE" apprentissage="Level" niveau="53" />
+  <CAPACITE nom="BLUFF" apprentissage="Level" niveau="59" />
+  <CAPACITE nom="AMNESIE" apprentissage="Oeuf" />
+  <CAPACITE nom="ASSISTANCE" apprentissage="Oeuf" />
+  <CAPACITE nom="CHARME" apprentissage="Oeuf" />
+  <CAPACITE nom="HYPNOSE" apprentissage="Oeuf" />
+  <CAPACITE nom="BOOST" apprentissage="Oeuf" />
+  <CAPACITE nom="DEPIT" apprentissage="Oeuf" />
+  <CAPACITE nom="VIBRAQUA" apprentissage="CT" />
+  <CAPACITE nom="HURLEMENT" apprentissage="CT" />
+  <CAPACITE nom="TOXIK" apprentissage="CT" />
+  <CAPACITE nom="PUIS. CACHEE" apprentissage="CT" />
+  <CAPACITE nom="ZENITH" apprentissage="CT" />
+  <CAPACITE nom="PROVOC" apprentissage="CT" />
+  <CAPACITE nom="ULTRALASER" apprentissage="CT" />
+  <CAPACITE nom="ABRI" apprentissage="CT" />
+  <CAPACITE nom="DANSE PLUIE" apprentissage="CT" />
+  <CAPACITE nom="FRUSTRATION" apprentissage="CT" />
+  <CAPACITE nom="QUEUE DE FER" apprentissage="CT" />
+  <CAPACITE nom="TONNERRE" apprentissage="CT" />
+  <CAPACITE nom="FATAL-FOUDRE" apprentissage="CT" />
+  <CAPACITE nom="RETOUR" apprentissage="CT" />
+  <CAPACITE nom="TUNNEL" apprentissage="CT" />
+  <CAPACITE nom="BALL'OMBRE" apprentissage="CT" />
+  <CAPACITE nom="REFLET" apprentissage="CT" />
+  <CAPACITE nom="ONDE DE CHOC" apprentissage="CT" />
+  <CAPACITE nom="AEROPIQUE" apprentissage="CT" />
+  <CAPACITE nom="TOURMENTE" apprentissage="CT" />
+  <CAPACITE nom="FACADE" apprentissage="CT" />
+  <CAPACITE nom="FORCE CACHEE" apprentissage="CT" />
+  <CAPACITE nom="REPOS" apprentissage="CT" />
+  <CAPACITE nom="ATTRACTION" apprentissage="CT" />
+  <CAPACITE nom="LARCIN" apprentissage="CT" />
+  <CAPACITE nom="SAISIE" apprentissage="CT" />
+  <CAPACITE nom="COUPE" apprentissage="CS" />
+  <CAPACITE nom="FLASH" apprentissage="CS" />
+  <CAPACITESPE nom="ECHAUFFEMENT" />
+  <EFFORT_POINT stat="vitesse" valeur="2" />
+</POKEMON>
